@@ -1,6 +1,6 @@
 ---
 title: Microprocessor-Based Smart Home Automation System
-date: 2023-10-26
+date: 2021-10-26
 external_link: https://github.com/UsamaRaju/EEE416_MicroProcessorProject
 tags:
   
