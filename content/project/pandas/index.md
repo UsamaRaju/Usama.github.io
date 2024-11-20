@@ -8,6 +8,6 @@ tags:
   - Markdown
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+Enhanced Generative Question Answering Using RLHF and Fine-Tuning for Improved Contextual Understanding
 
 <!--more-->
