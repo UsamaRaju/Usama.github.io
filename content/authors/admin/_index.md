@@ -180,4 +180,4 @@ awards:
 
 ## About Me
 
-ami Anom er jamai.kintu ami ore patta di na,or kono abdar ami rakhi,emn vab kori je ami buji na..jmn gotokal rat e o amk message diche but ami iccha kore seen kori ni jate or abdar puron korte na hoi.or cawa na cawa te amr ki ashe jai.
+ami Anom er jamai.kintu ami ore patta di na,or kono abdar ami rakhi na,kno rakhbo?emn vab kori je ami buji na..jmn gotokal rat e o amk message diche but ami iccha kore seen kori ni jate or abdar puron korte na hoi.or cawa na cawa te amr ki ashe jai.
