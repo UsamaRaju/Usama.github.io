@@ -1,17 +1,14 @@
 ---
 # Display name
-title: 吳健雄
+title: Usama Ibna Alam
 
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Usama Ibna
+last_name: Alam
 
-# Status emoji
-status:
-  icon: ☕️
+
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,12 +17,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Graduate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: BUET
+    url: https://www.buet.ac.bd/web/#/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
