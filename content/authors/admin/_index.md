@@ -56,7 +56,7 @@ education:
     summary: |
       CGPA: 3.88/4.0
     
-      Enhanced Generative Ques- tion Answering for Language Learning Using Finetuned LLMs and Reinforcement Learning. Supervised by [Mohammad Ariful Haque](https://eee.buet.ac.bd/people/faculty/dmarh). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Enhanced Generative Ques- tion Answering for Language Learning Using Finetuned LLMs and Reinforcement Learning. Supervised by [Mohammad Ariful Haque](https://eee.buet.ac.bd/people/faculty/dmarh),submitted to International Journal of Artificial Intelligence in Education.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
