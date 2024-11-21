@@ -148,15 +148,15 @@ skills:
       - name: Overleaf 
       - name: Microsoft Office
       - name: Microsoft Excel
+  - name: Language Skill
+    items:
+      - name: IELTS-Band 7
+        description: 'Reading: 8, Writing: 7, Listening: 6.5, Speaking: 7'
   - name: Hardware Skills
     items:
       - name: Arduino
       - name: ATMEGA32
       - name: FPGA
-  - name: Language Skill
-    items:
-      - name: IELTS-Band 7
-        description: 'Reading: 8, Writing: 7, Listening: 6.5, Speaking: 7'
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
