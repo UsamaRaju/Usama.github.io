@@ -128,11 +128,28 @@ skills:
       - name: C/C++
         description: ''
         percent: 100
-        icon: chart-bar
-      - name: SQL
+     #  icon: chart-bar
+      - name: MATLAB
         description: ''
         percent: 40
-        icon: circle-stack        
+     #  icon: circle-stack     
+      - name: System Verilog
+      - name: Cisco Packet Tracer
+      - name: ModelSim
+      - name: PSpice
+      - name: Proteus
+      - name: AutoCAD
+      - name: PSAF
+      - name: Transformers
+      - name: TRL
+      - name: Deep Neural Networks (using TensorFlow and Keras)
+      - name: Image Processing (using OpenCV)
+      - name: Arduino
+      - name: ATMEGA32
+      - name: FPGA
+      - name: Overleaf (LaTeX)
+      - name: Microsoft Office
+      - name: Microsoft Excel
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
