@@ -119,34 +119,33 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: Programming Languages
     items:
       - name: -Python
-        description: ''
-        percent: 80
-     #  icon: code-bracket
       - name: -C/C++
-        description: ''
-        percent: 100
-     #  icon: chart-bar
-      - name: -MATLAB
-        description: ''
-        percent: 40
-     #  icon: circle-stack     
+      - name: -MATLAB   
       - name: -System Verilog
+  - name: Simulation Software
+    items:
       - name: -Cisco Packet Tracer
       - name: -ModelSim
       - name: -PSpice
       - name: -Proteus
       - name: -AutoCAD
       - name: -PSAF
+  - name: ML Frameworks and Libraries
+    items:
       - name: -Transformers
       - name: -TRL
       - name: -Deep Neural Networks (using TensorFlow and Keras)
       - name: -Image Processing (using OpenCV)
+  - name: Hardware Skills
+    items:
       - name: -Arduino
       - name: -ATMEGA32
       - name: -FPGA
+  - name: Document Preparation: 
+    items:
       - name: -Overleaf (LaTeX)
       - name: -Microsoft Office
       - name: -Microsoft Excel
