@@ -121,8 +121,7 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Programming Languages
-        description: 'Python, C/C++, MATLAB, System Verilog'
+      - name: Core Competency Areas-
   - name: Programming Languages
     items:
       - name: -Python
