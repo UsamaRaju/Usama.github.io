@@ -123,12 +123,6 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Programming Languages
-    items:
-      - name: Python
-      - name: C/C++
-      - name: MATLAB   
-      - name: System Verilog
   - name: Simulation Software
     items:
       - name: Cisco Packet Tracer
@@ -143,16 +137,22 @@ skills:
       - name: TRL
       - name: Deep Neural Networks
       - name: Image Processing 
-  - name: Hardware Skills
+  - name: Programming Languages
     items:
-      - name: Arduino
-      - name: ATMEGA32
-      - name: FPGA
+      - name: Python
+      - name: C/C++
+      - name: MATLAB   
+      - name: System Verilog
   - name: Document Preparation
     items:
       - name: Overleaf 
       - name: Microsoft Office
       - name: Microsoft Excel
+  - name: Hardware Skills
+    items:
+      - name: Arduino
+      - name: ATMEGA32
+      - name: FPGA
   - name: Language Skill
     items:
       - name: IELTS (Band 7)
