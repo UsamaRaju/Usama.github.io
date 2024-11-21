@@ -55,7 +55,12 @@ education:
     date_end: 2024-07-31
     summary: |
       CGPA: 3.88/4.0
-    
+
+      Courses included:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+        
       Thesis on Enhanced Generative Question Answering for Language Learning Using Finetuned LLMs and Reinforcement Learning. Supervised by [Mohammad Ariful Haque](https://eee.buet.ac.bd/people/faculty/dmarh),submitted to International Journal of Artificial Intelligence in Education.
     button:
       text: 'Read Thesis'
