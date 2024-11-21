@@ -109,17 +109,16 @@ work:
        - LLM-Based RLC Circuit Recognition and Simulation
        - LLM-Based Disease Recognition System: A system that processes medical images, detects anomalies using a variational encoder and one-class SVM, and identifies specific diseases with additional medical tools
   - position: Industrial Experience
-    company_name: Walton Digi-Tech Industries Ltd, Gazipur, Bangladesh.
+    company_name: Walton Digi-Tech Industries Ltd.
     company_url: ''
     company_logo: ''
     date_start: 2023-11-01
     date_end: 2023-12-31
     summary: |
       location: Gazipur, Bangladesh
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+
+     Responsibilities include:
+   - Intern at Walton Digi-Tech Industries Ltd, contributing to industry-specific projects in manufacturing and technology, with a focus on production and assembly line activities to ensure quality control and operational efficiency.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
