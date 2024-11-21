@@ -125,48 +125,48 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Core Competency Areas-
+      - name: Core Competency Areas
   - name: Programming Languages
     items:
-      - name: -Python
-      - name: -C/C++
-      - name: -MATLAB   
-      - name: -System Verilog
+      - name: Python
+      - name: C/C++
+      - name: MATLAB   
+      - name: System Verilog
   - name: Simulation Software
     items:
-      - name: -Cisco Packet Tracer
-      - name: -ModelSim
-      - name: -PSpice
-      - name: -Proteus
-      - name: -AutoCAD
-      - name: -PSAF
+      - name: Cisco Packet Tracer
+      - name: ModelSim
+      - name: PSpice
+      - name: Proteus
+      - name: AutoCAD
+      - name: PSAF
   - name: ML Frameworks and Libraries
     items:
-      - name: -Transformers
-      - name: -TRL
-      - name: -Deep Neural Networks (using TensorFlow and Keras)
-      - name: -Image Processing (using OpenCV)
+      - name: Transformers
+      - name: TRL
+      - name: Deep Neural Networks (using TensorFlow and Keras)
+      - name: Image Processing (using OpenCV)
   - name: Hardware Skills
     items:
-      - name: -Arduino
-      - name: -ATMEGA32
-      - name: -FPGA
+      - name: Arduino
+      - name: ATMEGA32
+      - name: FPGA
   - name: Document Preparation
     items:
-      - name: -Overleaf (LaTeX)
-      - name: -Microsoft Office
-      - name: -Microsoft Excel
+      - name: Overleaf (LaTeX)
+      - name: Microsoft Office
+      - name: Microsoft Excel
   - name: Language Skill
     items:
       - name: IELTS (Overall Band 7)
-        description: '–	Reading: 8, Writing: 7, Listening: 6.5, Speaking: 7'
+        description: 'Reading: 8, Writing: 7, Listening: 6.5, Speaking: 7'
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: -Cricket
-      - name: -Movie
-      - name: -Football
+      - name: Cricket
+      - name: Movie
+      - name: Football
 languages:
   - name: English
     percent: 100
