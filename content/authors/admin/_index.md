@@ -58,7 +58,6 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  
   - area: HSC
     institution: Notre Dame College
     date_start: 2016-05-01
