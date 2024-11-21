@@ -152,9 +152,10 @@ skills:
       - name: -Overleaf (LaTeX)
       - name: -Microsoft Office
       - name: -Microsoft Excel
-  - name: Technical Skills
+  - name: Language Skill
     items:
-      - name: p
+      - name: IELTS (Overall Band: 7)
+        description: '–	Reading: 8, Writing: 7, Listening: 6.5, Speaking: 7'
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
