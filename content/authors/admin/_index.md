@@ -75,7 +75,7 @@ education:
       Thesis on Enhanced Generative Question Answering for Language Learning Using Finetuned LLMs and Reinforcement Learning. Supervised by [Mohammad Ariful Haque](https://eee.buet.ac.bd/people/faculty/dmarh),submitted to International Journal of Artificial Intelligence in Education.
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
+      url: 'https://github.com/UsamaRaju/Thesis_Book'
   - area: HSC
     institution: Notre Dame College
     date_start: 2016-05-01
