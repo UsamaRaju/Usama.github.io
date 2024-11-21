@@ -120,6 +120,8 @@ work:
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
+    items:
+      - name: Field of Expertise:
   - name: Programming Languages
     items:
       - name: -Python
