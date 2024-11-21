@@ -63,7 +63,7 @@ education:
   - area: HSC
     institution: Notre Dame College
     date_start: 2016-03-01
-    date_end: 2018-3-31
+    date_end: 2018-03-31
     summary: |
       GPA: 5.0/5.0
 
