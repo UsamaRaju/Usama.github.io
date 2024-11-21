@@ -108,12 +108,12 @@ work:
        Current Research (Sept’24 - Present):
        - LLM-Based RLC Circuit Recognition and Simulation
        - LLM-Based Disease Recognition System: A system that processes medical images, detects anomalies using a variational encoder and one-class SVM, and identifies specific diseases with additional medical tools
-  - position: Backend Software Engineer
-    company_name: X
+  - position: Industrial Experience
+    company_name: Walton Digi-Tech Industries Ltd, Gazipur, Bangladesh.
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2023-11-01
+    date_end: 2023-12-31
     summary: |
       Responsibilities include:
       - Migrated infrastructure to a new data center
