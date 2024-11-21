@@ -93,12 +93,12 @@ education:
       
       
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Research Experience
+    company_name: LLM Research Group, Department of EEE, BUET
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2019-01-01
+    date_end: 2024-07-31
     summary: |2-
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
