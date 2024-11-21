@@ -56,7 +56,7 @@ education:
     summary: |
       CGPA: 3.88/4.0
     
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Enhanced Generative Ques- tion Answering for Language Learning Using Finetuned LLMs and Reinforcement Learning. Supervised by [Mohammad Ariful Haque](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
