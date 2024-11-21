@@ -50,7 +50,7 @@ interests:
 
 education:
   - area: BSc in Electrical and Electronic Engineering 
-    institution: Stanford University
+    institution: Bangladesh University of Engnieering and Technology
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
