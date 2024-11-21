@@ -144,7 +144,7 @@ skills:
       - name: -Arduino
       - name: -ATMEGA32
       - name: -FPGA
-  - name: Document Preparation: 
+  - name: Document Preparation
     items:
       - name: -Overleaf (LaTeX)
       - name: -Microsoft Office
