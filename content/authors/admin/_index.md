@@ -115,10 +115,10 @@ work:
     date_start: 2023-11-01
     date_end: 2023-12-31
     summary: |
-      location: Gazipur, Bangladesh
+      Location: Gazipur, Bangladesh
 
-     Responsibilities include:
-   - Intern at Walton Digi-Tech Industries Ltd, contributing to industry-specific projects in manufacturing and technology, with a focus on production and assembly line activities to ensure quality control and operational efficiency.
+      Responsibilities include:
+      - Intern at Walton Digi-Tech Industries Ltd, contributing to industry-specific projects in manufacturing and technology, with a focus on production and assembly line activities to ensure quality control and operational efficiency.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
