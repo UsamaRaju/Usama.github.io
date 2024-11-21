@@ -121,7 +121,8 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Field of Expertise
+      - name: Programming Languages
+        description: 'Python, C/C++, MATLAB, System Verilog'
   - name: Programming Languages
     items:
       - name: -Python
