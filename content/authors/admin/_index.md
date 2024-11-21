@@ -44,9 +44,10 @@ profiles:
     url: https://orcid.org/
 
 interests:
+  - Large Language Models
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Robotics and Automation
+  - Signal Processing
 
 education:
   - area: BSc in Electrical and Electronic Engineering 
