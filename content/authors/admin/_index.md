@@ -91,10 +91,7 @@ education:
     summary: |
       GPA: 5.0/5.0
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
