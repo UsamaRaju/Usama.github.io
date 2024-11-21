@@ -35,11 +35,11 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        I am a researcher at the LLM Research Group, Department of EEE, BUET, under the supervision of Dr. Mohammad Ariful Haque. My work spans areas like Large Language Models (LLMs), signal processing, robotics, and automation.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        My undergraduate thesis focuses on enhancing generative question-answering systems using fine-tuned LLMs and reinforcement learning from human feedback. Currently, I am engaged in research on RLC circuit recognition and simulation, as well as developing a disease recognition system that utilizes medical image processing with variational encoders and one-class SVM for anomaly detection.
         
-        Please reach out to collaborate 😃
+        I am passionate about combining theoretical insights with practical applications to solve real-world problems and always eager to collaborate on innovative projects. 😊
     design:
       columns: '1'
  
