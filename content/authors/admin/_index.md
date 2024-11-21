@@ -124,6 +124,8 @@ work:
 skills:
   - name: Technical Skills
     items:
+      - name: Programming Languages: 
+    items:
       - name: Python
         description: ''
         percent: 80
