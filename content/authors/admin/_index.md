@@ -129,10 +129,11 @@ skills:
       #  description: ''
         percent: 100
         icon: chart-bar
-      - name: SQL
-        description: ''
+      - name: MATLAB
+      #  description: ''
         percent: 40
         icon: circle-stack
+      - name: MATLAB
         
   - name: Hobbies
     color: '#eeac02'
