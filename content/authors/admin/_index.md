@@ -179,7 +179,7 @@ awards:
   - title: Dean’s List Award, University Merit Scholarship 
     date: '2023-11-25'
     awarder: BUET
-   
+    url: https://name.buet.ac.bd/rootBackup/scholarship.html
 ---
 
 ## About Me
