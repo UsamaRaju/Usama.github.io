@@ -123,9 +123,6 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
-    items:
-      - name: Core Competency Areas
   - name: Programming Languages
     items:
       - name: Python
