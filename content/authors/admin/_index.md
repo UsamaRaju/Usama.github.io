@@ -141,8 +141,8 @@ skills:
     items:
       - name: Transformers
       - name: TRL
-      - name: Deep Neural Networks (using TensorFlow and Keras)
-      - name: Image Processing (using OpenCV)
+      - name: Deep Neural Networks
+      - name: Image Processing 
   - name: Hardware Skills
     items:
       - name: Arduino
@@ -150,12 +150,12 @@ skills:
       - name: FPGA
   - name: Document Preparation
     items:
-      - name: Overleaf (LaTeX)
+      - name: Overleaf 
       - name: Microsoft Office
       - name: Microsoft Excel
   - name: Language Skill
     items:
-      - name: IELTS (Overall Band 7)
+      - name: IELTS (Band 7)
         description: 'Reading: 8, Writing: 7, Listening: 6.5, Speaking: 7'
   - name: Hobbies
     color: '#eeac02'
