@@ -155,7 +155,7 @@ skills:
       - name: FPGA
   - name: Language Skill
     items:
-      - name: IELTS (Band 7)
+      - name: IELTS-Band 7
         description: 'Reading: 8, Writing: 7, Listening: 6.5, Speaking: 7'
   - name: Hobbies
     color: '#eeac02'
