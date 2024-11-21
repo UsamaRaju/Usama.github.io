@@ -119,21 +119,8 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills 
-    items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: code-bracket
-      - name: C/C++
-      #  description: ''
-        percent: 100
-        icon: chart-bar
-      - name: MATLAB
-      #  description: ''
-        percent: 40
-        icon: circle-stack
-      - name: MATLAB
+   Technical Skills 
+    
         
   - name: Hobbies
     color: '#eeac02'
