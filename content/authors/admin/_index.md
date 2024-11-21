@@ -124,8 +124,8 @@ skills:
       - name: Python
         description: ''
         percent: 80
-        icon: code-bracket
-      - name: Data Science
+     #  icon: code-bracket
+      - name: C/C++
         description: ''
         percent: 100
         icon: chart-bar
