@@ -160,9 +160,9 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Cricket
-      - name: Movie
-      - name: Football
+      - name: -Cricket
+      - name: -Movie
+      - name: -Football
 languages:
   - name: English
     percent: 100
