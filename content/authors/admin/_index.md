@@ -110,6 +110,7 @@ work:
        - LLM-Based Disease Recognition System: A system that processes medical images, detects anomalies using a variational encoder and one-class SVM, and identifies specific diseases with additional medical tools
   - position: Industrial Experience
     company_name: Walton Digi-Tech Industries Ltd, Gazipur, Bangladesh.
+    location: Gazipur, Bangladesh
     company_url: ''
     company_logo: ''
     date_start: 2023-11-01
