@@ -62,12 +62,12 @@ education:
       url: 'https://example.com'
   - area: HSC
     institution: Notre Dame College
-    date_start: 2016-03-01
+    date_start: 2016-05-01
     date_end: 2018-03-31
     summary: |
       GPA: 5.0/5.0
 
-      Courses included:
+     # Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
