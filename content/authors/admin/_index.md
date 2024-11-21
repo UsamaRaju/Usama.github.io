@@ -133,7 +133,7 @@ skills:
         description: ''
         percent: 40
      #  icon: circle-stack     
-      - name: System Verilog
+      - name: -System Verilog
       - name: Cisco Packet Tracer
       - name: ModelSim
       - name: PSpice
