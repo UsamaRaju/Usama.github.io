@@ -100,10 +100,14 @@ work:
     date_start: 2019-01-01
     date_end: 2024-07-31
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+       Supervisor: Dr. Mohammad Ariful Haque
+
+       Undergraduate Thesis (May’23 - May’24):
+       - Enhanced Generative Question Answering Using Large Language Models and Reinforcement Learning from Human Feedback
+
+       Current Research (Sept’24 - Present):
+       - LLM-Based RLC Circuit Recognition and Simulation
+       - LLM-Based Disease Recognition System: A system that processes medical images, detects anomalies using a variational encoder and one-class SVM, and identifies specific diseases with additional medical tools
   - position: Backend Software Engineer
     company_name: X
     company_url: ''
