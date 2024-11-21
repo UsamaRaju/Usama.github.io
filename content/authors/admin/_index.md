@@ -67,7 +67,7 @@ education:
     summary: |
       GPA: 5.0/5.0
 
-     # Courses included:
+      Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
