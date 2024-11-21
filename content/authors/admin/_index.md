@@ -150,6 +150,9 @@ skills:
       - name: -Overleaf (LaTeX)
       - name: -Microsoft Office
       - name: -Microsoft Excel
+  - name: Technical Skills
+    items:
+      - name: p
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
