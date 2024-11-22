@@ -19,4 +19,4 @@ Here are the details of my published and submitted research papers:
 ---
 
 Feel free to click on the links to explore the details of these papers. 
-#  If you're interested in discussing or collaborating on related research, please don't hesitate to [contact me](mailto:usama11803025@gmail.com).
+
